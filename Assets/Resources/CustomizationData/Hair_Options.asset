@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3a7ce26d3caf1d4e83f8af2b3c8eb8f, type: 3}
+  m_Name: Hair_Options
+  m_EditorClassIdentifier: 
+  partType: 0
+  options:
+  - id: Empty
+    mesh: {fileID: 0}
+  - id: Hair_001
+    mesh: {fileID: 595269484796044676, guid: bcc02c917af1328499f8e0d6e7cc5d8b, type: 3}
+  - id: Hair_002
+    mesh: {fileID: -6281821083070425522, guid: 8edc74b96aae1814ebd39a1333edeee9, type: 3}
+  - id: Hair_003
+    mesh: {fileID: 1488449143564854225, guid: 2fb168241d7f2af4aaa95cfafef50c5e, type: 3}
+  - id: Hair_004
+    mesh: {fileID: 6144504939682357048, guid: 8fceb0ca052a3814aaff88ad72c69a35, type: 3}
+  - id: Hair_005
+    mesh: {fileID: -3165461602533460347, guid: 1698332e48d56ea41a7a0b7676e02404, type: 3}
+  - id: Hair_006
+    mesh: {fileID: -142448854267247919, guid: c896a220004b24d458a4533b67e7b8b8, type: 3}
+  - id: Hair_007
+    mesh: {fileID: -7413775046096054642, guid: 3c607cc2ed46a074faf78dc3dc98e58f, type: 3}
+  - id: Hair_008
+    mesh: {fileID: 1816856917842991517, guid: 80c285b337dbaad4da101ff10e2f6a68, type: 3}
+  - id: Hair_009
+    mesh: {fileID: 5079635318241127165, guid: b7460882fe407934b9dc9271dd715654, type: 3}
+  - id: Hair_010
+    mesh: {fileID: 1874887779957456936, guid: baced0c6ba41bb946a8da198c8999f84, type: 3}
+  - id: Hair_011
+    mesh: {fileID: -7983237131192954501, guid: 39710f6f3937f6b4fb4d0abdaa29d8f6, type: 3}
+  - id: Hair_012
+    mesh: {fileID: -2397626681918948730, guid: 67f930c8493c37741a5cfe690ce71a51, type: 3}
+  - id: Hair_013
+    mesh: {fileID: -6797903930723876749, guid: e7f1c54fe5a82864cb525d73c0d1c3e0, type: 3}
+  - id: Hair_014
+    mesh: {fileID: 6044869691379592158, guid: 1d20e44a9e6cc274dbf8ec7767057202, type: 3}
+  - id: Hair_015
+    mesh: {fileID: 1438855777895203653, guid: 1cdd22d84a84e4d42bf005845ab69a69, type: 3}
+  - id: Hair_016
+    mesh: {fileID: 7249359577589903098, guid: c23834c7e8b69e64f8c2ff84b0f4e2fa, type: 3}
+  - id: Hair_017
+    mesh: {fileID: -8131021554457491376, guid: 94eb52423e78a5247bb77c38987267d2, type: 3}
+  - id: Hair_018
+    mesh: {fileID: -656376343274739043, guid: 764fff65f0eadd74897d2d5349958387, type: 3}
+  - id: Hair_019
+    mesh: {fileID: -8182330016466182221, guid: c3cd12b784bc1d043ba67ad4d4ec628e, type: 3}
+  - id: Hair_020
+    mesh: {fileID: 7294069050273908198, guid: 0eea25bdf66e2db4ba386a88cb92ebe2, type: 3}
+  - id: Hair_021
+    mesh: {fileID: -751338181036104288, guid: 65b6534f4c9261645bb9fb87ce769e44, type: 3}
+  - id: Hair_022
+    mesh: {fileID: -2435926293740213806, guid: f2ac291f53662c84cadebb33fb08acb6, type: 3}
+  - id: Hair_023
+    mesh: {fileID: 2676602499067407398, guid: f6e6a1620df4e4c4091a8da5d30eb6b0, type: 3}
+  - id: Hair_024
+    mesh: {fileID: -4346885609568558455, guid: 99383fe5795785641959ca51f0ba9f43, type: 3}
+  - id: Hair_025
+    mesh: {fileID: -5471569292979799639, guid: 4603f089cc7589245b12338f5c500b47, type: 3}
+  - id: Hair_026
+    mesh: {fileID: -6558251349011728297, guid: 8731183ee6898434c9abaaaf22a07e84, type: 3}
+  - id: Hair_027
+    mesh: {fileID: -4740843180712080570, guid: 8803d8eeb92cf2645a0aa79f0bc86148, type: 3}

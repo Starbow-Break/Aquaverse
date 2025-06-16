@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3a7ce26d3caf1d4e83f8af2b3c8eb8f, type: 3}
+  m_Name: Shoe_Options
+  m_EditorClassIdentifier: 
+  partType: 11
+  options:
+  - id: Empty
+    mesh: {fileID: 0}
+  - id: Shoe_Boot_001
+    mesh: {fileID: 8361480225939118143, guid: 1d40c550cf59f7241ac9407e8652cc9f, type: 3}
+  - id: Shoe_Boot_002
+    mesh: {fileID: -7688460614176580392, guid: b86c26efb24ba524abe8d7f791225469, type: 3}
+  - id: Shoe_Boot_003
+    mesh: {fileID: -1937147591351020570, guid: cf2bc3958578d4e459c24956cf5de257, type: 3}
+  - id: Shoe_Boot_004
+    mesh: {fileID: -3425619091179049800, guid: bf82e6f24f3c2b54a8ae1a1d8d7d3612, type: 3}
+  - id: Shoe_Skate_001
+    mesh: {fileID: 2255025735300659863, guid: 391cc3dfcdfdab84e8f6cc9be66257cd, type: 3}
+  - id: Shoe_Skate_002
+    mesh: {fileID: -2786289554751819564, guid: e61a166a1371c8a4aab6282088aabf1d, type: 3}
+  - id: Shoe_Slipper_001
+    mesh: {fileID: 8943145768493837175, guid: 9599645c91ce44b40a119dc0689ea815, type: 3}
+  - id: Shoe_Slipper_002
+    mesh: {fileID: -4336754481031978990, guid: a6a888651bbea0e46b214e0284567da1, type: 3}
+  - id: Shoe_Slipper_003
+    mesh: {fileID: 5975425257555696987, guid: 258ff579e48e6e343810347ebf478bc6, type: 3}
+  - id: Shoe_Slipper_004
+    mesh: {fileID: 1842218362150348358, guid: 1fc7e6a0cf578a74bb2e55e045516ae1, type: 3}
+  - id: Shoe_Slipper_005
+    mesh: {fileID: 5342660743527165180, guid: 3eb18e1dd3b0f9041afacee4554067e9, type: 3}
+  - id: Shoe_Slipper_006
+    mesh: {fileID: -3953380756891330942, guid: 1253d16a7d64af0478a357e5e3e11e7e, type: 3}
+  - id: Shoe_Slipper_007
+    mesh: {fileID: -2976721495543407542, guid: a8ba4456e2679f846b094eeb4999b28f, type: 3}
+  - id: Shoe_Sneaker_001
+    mesh: {fileID: -3957368211968833853, guid: a25848c3b2f4b2143ab543ca731b5031, type: 3}
+  - id: Shoe_Sneaker_002
+    mesh: {fileID: -7234042819071502106, guid: 41e8ceabb088f8644bd3e3631447dcce, type: 3}
+  - id: Shoe_Sneaker_003
+    mesh: {fileID: -6982196062052011878, guid: 2fa3292342568cf43b84e1a1e6c4823c, type: 3}
+  - id: Shoe_Sneaker_004
+    mesh: {fileID: 7839291265172584706, guid: acd845aaf29188548a52875b38f0bffc, type: 3}
+  - id: Shoe_Sneaker_005
+    mesh: {fileID: 510565838243499132, guid: 526d3b6539ba1f4478201455438ffa1d, type: 3}
+  - id: Shoe_Sneaker_006
+    mesh: {fileID: 2200347505943057776, guid: 2002f5206b191684a987e4a73a43cc20, type: 3}
+  - id: Shoe_Sneaker_007
+    mesh: {fileID: 487647315254416102, guid: 815e29f7ef545534aa7a1a14b32fc7e2, type: 3}
+  - id: Shoe_Sneaker_008
+    mesh: {fileID: -3000198439535650014, guid: 10230f093d15cc946aabbfe58209f22f, type: 3}
+  - id: Shoe_Sneaker_009
+    mesh: {fileID: 3273908306778576273, guid: 1e3bdc7d200c8bf4bbf00234597aae24, type: 3}
+  - id: Shoe_Sneaker_010
+    mesh: {fileID: 8336638687051175091, guid: 689c5272eab9607469f38a0b73115342, type: 3}
+  - id: Shoe_Sneaker_011
+    mesh: {fileID: -5869693814040566089, guid: 0d152678121eb5d42b7846a6e149875d, type: 3}
+  - id: Shoe_Sneaker_012
+    mesh: {fileID: 3837850470345593470, guid: 25d74dab55763ee479615997ad54caa1, type: 3}
+  - id: Shoe_Sneaker_013
+    mesh: {fileID: 710712299814056379, guid: 6103cf50335ed2e46bb4de98b7a184be, type: 3}
+  - id: Shoe_Sneaker_014
+    mesh: {fileID: 4010820731928761125, guid: 4e1bb65fb09f64d47b3f1c8d4de50c9f, type: 3}
+  - id: Shoe_Sneaker_015
+    mesh: {fileID: -4521719751963178784, guid: 19f7dc85fcc55834b9618a72a6a549b3, type: 3}
+  - id: Shoe_Sneaker_016
+    mesh: {fileID: 3712063621402391317, guid: a29e7e87e14bf404e9e53edaf5679ab1, type: 3}
+  - id: Shoe_Sneaker_017
+    mesh: {fileID: 1485159272129722322, guid: e2a70bcb4b2b3d14eae7523ae570cad1, type: 3}
+  - id: Shoe_Sneaker_018
+    mesh: {fileID: 3151335150760661145, guid: c508037db2feb5f4aa59076ee21982b3, type: 3}
+  - id: Shoe_Sneaker_019
+    mesh: {fileID: -3520740675164321562, guid: 68cb675225dcda346b4102f369775e5a, type: 3}
+  - id: Shoe_Sneaker_020
+    mesh: {fileID: -441529040719473870, guid: 2a454a2b6b66d5c49832fb0866f6b964, type: 3}
+  - id: Shoe_Sneaker_021
+    mesh: {fileID: 2328878039845992183, guid: b66b015a9aa6e974498600a43788c58d, type: 3}

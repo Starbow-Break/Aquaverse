@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3a7ce26d3caf1d4e83f8af2b3c8eb8f, type: 3}
+  m_Name: Pants_Options
+  m_EditorClassIdentifier: 
+  partType: 10
+  options:
+  - id: Empty
+    mesh: {fileID: 0}
+  - id: Pants_Black_001
+    mesh: {fileID: 541769420223019597, guid: 78606bef4a76bd24ca6c52d45eba934e, type: 3}
+  - id: Pants_Black_002
+    mesh: {fileID: -3435792330371191128, guid: f71ec61144243da469cf27a91bc28486, type: 3}
+  - id: Pants_Black_003
+    mesh: {fileID: 8639205106356337813, guid: d63ea7cb19c4d8b43942d7969cc18167, type: 3}
+  - id: Pants_Black_004
+    mesh: {fileID: 3736482127881535990, guid: e64943164996c404b982f9c8d2bf8496, type: 3}
+  - id: Pants_Black_005
+    mesh: {fileID: 4231021939113837116, guid: 6fd58b3d8837129429eec47be74fc420, type: 3}
+  - id: Pants_Black_006
+    mesh: {fileID: 2042521045411265787, guid: 4022470365b1cad4c9b1a390bcf41322, type: 3}
+  - id: Pants_Blue_001
+    mesh: {fileID: 7840998262812907699, guid: d47a723b7f8b87a43a699de9229dcf5b, type: 3}
+  - id: Pants_Blue_002
+    mesh: {fileID: 5542488327165958397, guid: 450f2f6481da368478167481259fa99b, type: 3}
+  - id: Pants_Blue_003
+    mesh: {fileID: -6969295852953815875, guid: f3147781c93bea44e9c6b8f32b375a10, type: 3}
+  - id: Pants_Blue_004
+    mesh: {fileID: -6041355069939921678, guid: cfdb123be225079488a9e90775113411, type: 3}
+  - id: Pants_Blue_005
+    mesh: {fileID: 8568623504719378403, guid: e44378c7a860eb94f944a81f59dee7a7, type: 3}
+  - id: Pants_Blue_006
+    mesh: {fileID: 32811033685133064, guid: d54e77971047e17488b2bbf8762bddc9, type: 3}
+  - id: Pants_Brown_001
+    mesh: {fileID: 1706264865399926485, guid: e415e9c2519db754cabaa9e21d1a76d2, type: 3}
+  - id: Pants_Brown_002
+    mesh: {fileID: -5626715212787825438, guid: 1a93cdfaf47a2864085a44e70db5f355, type: 3}
+  - id: Pants_Brown_003
+    mesh: {fileID: 4545136671840875632, guid: fab4b9064d2cef74b95ae4344bd482bd, type: 3}
+  - id: Pants_Brown_004
+    mesh: {fileID: -4011812625596091893, guid: 3fe158f020910454da13f11b434f8097, type: 3}
+  - id: Pants_Brown_005
+    mesh: {fileID: 2497994797569653239, guid: 36b1accdb41a0b3449359ce0c559efa3, type: 3}
+  - id: Pants_Brown_006
+    mesh: {fileID: -4773828282981362853, guid: 3e6a1c44e141b1e4e812940b16b84bd0, type: 3}
+  - id: Pants_Green_001
+    mesh: {fileID: 4323206231522987272, guid: 0c1fd72562a39c2469bb8b2b733189f6, type: 3}
+  - id: Pants_Green_002
+    mesh: {fileID: 8274185359022315750, guid: 54dea1ed5adb4394bb3eecfc66b9b608, type: 3}
+  - id: Pants_Green_003
+    mesh: {fileID: -4020122967251433043, guid: d1ca41b84a4931b4d83fa2600b98a8bb, type: 3}
+  - id: Pants_Green_004
+    mesh: {fileID: -7408424693047493371, guid: 226a850d54f7d334aa4c1f5f9747ed5c, type: 3}
+  - id: Pants_Green_005
+    mesh: {fileID: 2323306361538502478, guid: 8d1bd4eae46a44c48a9518eeb5fb6818, type: 3}
+  - id: Pants_Green_006
+    mesh: {fileID: -1502922470702667909, guid: cba6ffe4c330e0b44804c288696d0ee0, type: 3}
+  - id: Pants_Light_Blue_001
+    mesh: {fileID: -679753360852155753, guid: 7f1d45ca191b2d1408ac5ff40ed7af02, type: 3}
+  - id: Pants_Light_Blue_002
+    mesh: {fileID: 1440265538593087873, guid: 6ffbe0dd19d30e149b0cf10fd67b0e9d, type: 3}
+  - id: Pants_Light_Blue_003
+    mesh: {fileID: -1379310383692666315, guid: e36872a0b60d5e84da625e9e0aefd496, type: 3}
+  - id: Pants_Light_Blue_004
+    mesh: {fileID: 2810065944519866356, guid: ba7c99856b5eab941a6595610711334e, type: 3}
+  - id: Pants_Light_Blue_005
+    mesh: {fileID: -6030785650677262516, guid: 5fbd7618b33c4a449ba6a94bb3d76a48, type: 3}
+  - id: Pants_Light_Blue_006
+    mesh: {fileID: -1389122776380026238, guid: cc4b5965c4962fe4a999f2363ab02f34, type: 3}
+  - id: Pants_Orange_001
+    mesh: {fileID: -2381739081883257250, guid: 53574eab07663d6458ad4bc1931ab284, type: 3}
+  - id: Pants_Orange_002
+    mesh: {fileID: -5391399324205835752, guid: cb5b205303469674194ccad3d8616c00, type: 3}
+  - id: Pants_Orange_003
+    mesh: {fileID: 725184778573485452, guid: fb92c39ca4e986a4c930b16e88e326ad, type: 3}
+  - id: Pants_Orange_004
+    mesh: {fileID: -1702597342765233995, guid: 7d3ce461e9780de4090eb5c8a56d60f9, type: 3}
+  - id: Pants_Orange_005
+    mesh: {fileID: -7983966097342043395, guid: d96c4a16e973a594e9019e0435fd1319, type: 3}
+  - id: Pants_Orange_006
+    mesh: {fileID: 7665816880534725232, guid: 2bfe5dee97b15984183f278ec504a857, type: 3}
+  - id: Pants_Pink_001
+    mesh: {fileID: 2197503611841402322, guid: 1658d53936faaa34da254bb9af1a687b, type: 3}
+  - id: Pants_Pink_002
+    mesh: {fileID: -3079012856165282344, guid: d05f870cfe1b6d44db466565834f0719, type: 3}
+  - id: Pants_Pink_003
+    mesh: {fileID: 2340369520126766693, guid: 5cff63ff706fbc749b501c8157b833fc, type: 3}
+  - id: Pants_Pink_004
+    mesh: {fileID: -3519323120010991996, guid: 5fb7f3991e7be724f92de610342494f7, type: 3}
+  - id: Pants_Pink_005
+    mesh: {fileID: -4331586363276840960, guid: 7b2826b684a45a448ab80fc99bd5a73b, type: 3}
+  - id: Pants_Pink_006
+    mesh: {fileID: 5965613566268381702, guid: 176fe53d4dfb34340ac9d00d365b03bc, type: 3}
+  - id: Pants_Red_001
+    mesh: {fileID: -7083930451406768125, guid: 4f3f19ee9f01dfd41b7ee3d777193977, type: 3}
+  - id: Pants_Red_002
+    mesh: {fileID: -8213871681470663069, guid: 5fc15891425d8484f9c8f05378b2f9d0, type: 3}
+  - id: Pants_Red_003
+    mesh: {fileID: -9088854748010876707, guid: 08d04a4c94e659947b2bec3c70864129, type: 3}
+  - id: Pants_Red_004
+    mesh: {fileID: 8694518865179697399, guid: df90b345c48e824428e428cf968e74dd, type: 3}
+  - id: Pants_Red_005
+    mesh: {fileID: 6275887562634609541, guid: a4d56493b288eb04a9addfeace19b085, type: 3}
+  - id: Pants_Red_006
+    mesh: {fileID: -9150363079086294549, guid: b7d0edc44433e6c47b0a45ae9fcc9d5b, type: 3}
+  - id: Pants_White_001
+    mesh: {fileID: -6194194756645529996, guid: 281256ac51853124b9c559119068f580, type: 3}
+  - id: Pants_White_002
+    mesh: {fileID: -4834008101077820826, guid: 72dafc2bebcc40148b0d2211995814ff, type: 3}
+  - id: Pants_White_003
+    mesh: {fileID: -3728192847631739090, guid: 5be2094b29c1fd54f9613ff876aaf395, type: 3}
+  - id: Pants_White_004
+    mesh: {fileID: -726806407536514827, guid: 15be5c433bd92254ea68f8cd78621fe9, type: 3}
+  - id: Pants_White_005
+    mesh: {fileID: -2329118339114304523, guid: ce527154d749ea442842d3937e354a4f, type: 3}
+  - id: Pants_White_006
+    mesh: {fileID: 2525056253657577198, guid: 94f62b845f3598340bc2c3ea5436627a, type: 3}
+  - id: Pants_Yellow_001
+    mesh: {fileID: 5171200226066951387, guid: 080c4b65ac13dfe448a1741e9b0de270, type: 3}
+  - id: Pants_Yellow_002
+    mesh: {fileID: -253811339900896990, guid: e555b7612d33c984f81fdf6b10ecd522, type: 3}
+  - id: Pants_Yellow_003
+    mesh: {fileID: -4370948470248284847, guid: 2d9b5bc4191087b46be7afc6e8cd263d, type: 3}
+  - id: Pants_Yellow_004
+    mesh: {fileID: 7718167166355967594, guid: e386f4277edf5654eb771bfa0c6c154b, type: 3}
+  - id: Pants_Yellow_005
+    mesh: {fileID: 1364241622981623997, guid: 048bbb4c457c76c44b8e19150c2814a2, type: 3}
+  - id: Pants_Yellow_006
+    mesh: {fileID: 4203488823679448730, guid: b415d80a9b1225541808f6522459a6d6, type: 3}

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3a7ce26d3caf1d4e83f8af2b3c8eb8f, type: 3}
+  m_Name: Eyebrow_Options
+  m_EditorClassIdentifier: 
+  partType: 5
+  options:
+  - id: Empty
+    mesh: {fileID: 0}
+  - id: Eyebrow_001
+    mesh: {fileID: -3945952918847551594, guid: 25e0155e0dc6940488a8edca0c2fbae0, type: 3}
+  - id: Eyebrow_002
+    mesh: {fileID: 6384821962122047818, guid: 9c0cb9c20669ed945838711c566c8b4c, type: 3}
+  - id: Eyebrow_003
+    mesh: {fileID: -3760050667869633787, guid: d89c899c32bb8694998c2b1bb0d17c0c, type: 3}
+  - id: Eyebrow_004
+    mesh: {fileID: 1228146543591663009, guid: d65f85ec1c209264e8767e6cc7f5d8a7, type: 3}
+  - id: Eyebrow_005
+    mesh: {fileID: -1184907770814149245, guid: 60064bc2504519d448de2444ee601cb4, type: 3}
+  - id: Eyebrow_006
+    mesh: {fileID: 6406229262256406314, guid: 75fcef191a836f841bc406c4f172e6d0, type: 3}
+  - id: Eyebrow_007
+    mesh: {fileID: 8480579879965680762, guid: f12c9cb47d5057144ade0669011a9f15, type: 3}
+  - id: Eyebrow_008
+    mesh: {fileID: 405217224201089584, guid: 8acc7b6798c81cd4fb6348b7f76f1a22, type: 3}
+  - id: Eyebrow_009
+    mesh: {fileID: 9163116049705982686, guid: 2792a8185d7df8241835781af4454988, type: 3}
+  - id: Eyebrow_010
+    mesh: {fileID: -4229060505398825472, guid: bea0f29023d77e648a379021729b1c6a, type: 3}
+  - id: Eyebrow_011
+    mesh: {fileID: 1961650057514127179, guid: 1f8c71fdb89b1984cb67b0a40ad87911, type: 3}
+  - id: Eyebrow_012
+    mesh: {fileID: 7142330607292712402, guid: ef4f25273b900774f9e41356db9dca0f, type: 3}

@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3a7ce26d3caf1d4e83f8af2b3c8eb8f, type: 3}
+  m_Name: Mustache_Options
+  m_EditorClassIdentifier: 
+  partType: 8
+  options:
+  - id: Empty
+    mesh: {fileID: 0}
+  - id: Mustache_Black_001
+    mesh: {fileID: -5183159757408782702, guid: 308a18d3c04d4ca469445bf83dcbb253, type: 3}
+  - id: Mustache_Black_002
+    mesh: {fileID: -4269578613987069369, guid: 912715d11b01c40418fe5e6ccc63dbc1, type: 3}
+  - id: Mustache_Black_003
+    mesh: {fileID: -6223263429008511916, guid: b1d7f6eac52835d4b872ef6c3ba57470, type: 3}
+  - id: Mustache_Black_004
+    mesh: {fileID: 7801251679610569975, guid: 9401adf81f09f18409e79056a222e88d, type: 3}
+  - id: Mustache_Black_005
+    mesh: {fileID: 8239378173128267537, guid: 53b494f2e602ce34a98f44c8364fba83, type: 3}
+  - id: Mustache_Black_006
+    mesh: {fileID: -7335051768219049573, guid: f998d6104fccfe34082b101de3984495, type: 3}
+  - id: Mustache_Black_007
+    mesh: {fileID: 5161944334144133049, guid: b5082f5d34f2b89449d5189fac26f99a, type: 3}
+  - id: Mustache_Black_008
+    mesh: {fileID: -5065455991898577738, guid: be00908b098ae56488df9f12ebbcc45d, type: 3}
+  - id: Mustache_Black_009
+    mesh: {fileID: 1765762241889055691, guid: 44c78ab2c152e1a41b00b2118f16e48b, type: 3}
+  - id: Mustache_Black_010
+    mesh: {fileID: 3338787147179864315, guid: 6325d484ee11e8c4f95de469f6a5cf18, type: 3}
+  - id: Mustache_Black_011
+    mesh: {fileID: 9122606708663563783, guid: 78d2a6f1f9f9bed498acc3db9ce70b86, type: 3}
+  - id: Mustache_Black_012
+    mesh: {fileID: -3623244356847529318, guid: d793d0d7f3ec7154eb90490b4ad4982b, type: 3}
+  - id: Mustache_Brown_001
+    mesh: {fileID: 1804231724594937503, guid: 34f44f417a5d649488e6527a9806c6d7, type: 3}
+  - id: Mustache_Brown_002
+    mesh: {fileID: 3125850941031708665, guid: df1721b88a3486b4aa6d65df6718cba9, type: 3}
+  - id: Mustache_Brown_003
+    mesh: {fileID: 1929166994807307934, guid: 066273ff533ecce4592465bed6f55a2c, type: 3}
+  - id: Mustache_Brown_004
+    mesh: {fileID: 2539929277255729081, guid: 6546459e8043129479ae21d7442dfae7, type: 3}
+  - id: Mustache_Brown_005
+    mesh: {fileID: 9054984305150975206, guid: e9e5c275f81916e4ca8a70cd09f53e88, type: 3}
+  - id: Mustache_Brown_006
+    mesh: {fileID: -7659752684325562060, guid: 52baa468bf2b7d14fa2365108a670bbd, type: 3}
+  - id: Mustache_Brown_007
+    mesh: {fileID: -1483439290619672012, guid: 17abf97d009c36948915ea60126c81e3, type: 3}
+  - id: Mustache_Brown_008
+    mesh: {fileID: 1548826988401938913, guid: b1f45f5a7b938e1468e62ce33629d353, type: 3}
+  - id: Mustache_Brown_009
+    mesh: {fileID: 6350295983722451213, guid: 092afc170e88810429e8ce2c3caf2ed6, type: 3}
+  - id: Mustache_Brown_010
+    mesh: {fileID: -5521338208124944181, guid: 2721862b75f57e8418daee1de495d760, type: 3}
+  - id: Mustache_Brown_011
+    mesh: {fileID: -1043498331147961491, guid: 76bff66724be9e64f9b0ea39604fd50f, type: 3}
+  - id: Mustache_Brown_012
+    mesh: {fileID: 7573759429383473713, guid: 48ac830cdb3b3874697016a03e39fc82, type: 3}
+  - id: Mustache_White_001
+    mesh: {fileID: -794847553742572496, guid: 4de61b1d838045c4fbeace6753657727, type: 3}
+  - id: Mustache_White_002
+    mesh: {fileID: -8532185667756794561, guid: 537caf0f9e6205f4d9aa23fefbb7f429, type: 3}
+  - id: Mustache_White_003
+    mesh: {fileID: 5727144661517875756, guid: be41e83f7f62b374a82aceee4c66c3f2, type: 3}
+  - id: Mustache_White_004
+    mesh: {fileID: -327383327727682123, guid: f0d1bea343bb63d46a4b33f4f9efcc71, type: 3}
+  - id: Mustache_White_005
+    mesh: {fileID: -3122410936418691547, guid: 4d8b28f917167b449a7e12c99016789c, type: 3}
+  - id: Mustache_White_006
+    mesh: {fileID: 440598819444673798, guid: 90e35753232ca274aad14b0205464dba, type: 3}
+  - id: Mustache_White_007
+    mesh: {fileID: 8924342817001096479, guid: eb0b8c875de0b2a45906a341c42a7b54, type: 3}
+  - id: Mustache_White_008
+    mesh: {fileID: 1505793266408791519, guid: d47453abdd120764ab63c416b09ad5d4, type: 3}
+  - id: Mustache_White_009
+    mesh: {fileID: -4371117806779205188, guid: bdb278c614306f44fad4290d1023f311, type: 3}
+  - id: Mustache_White_010
+    mesh: {fileID: 8141837517405629739, guid: 2b0f858f2b93ce84fa13523f2f6ae7a2, type: 3}
+  - id: Mustache_White_011
+    mesh: {fileID: 1343593860234081598, guid: 5239a21edbc933145a2e1eeeb4f21a46, type: 3}
+  - id: Mustache_White_012
+    mesh: {fileID: -5926198174857192869, guid: b67e0cebf7f67a94eb95d8574acf4ea3, type: 3}

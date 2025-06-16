@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3a7ce26d3caf1d4e83f8af2b3c8eb8f, type: 3}
+  m_Name: FullBody_Options
+  m_EditorClassIdentifier: 
+  partType: 6
+  options:
+  - id: Empty
+    mesh: {fileID: 0}
+  - id: FullBody_Action_figure_001
+    mesh: {fileID: 1485834707527389488, guid: 863469a9faf62eb4a91cd4392a5a2ba4, type: 3}
+  - id: FullBody_Alien_001
+    mesh: {fileID: -6060760601693709045, guid: 910ea62923fa0f14e9e69c0eb0e50008, type: 3}
+  - id: FullBody_Astronaut_001
+    mesh: {fileID: 5719125696196914706, guid: 4818eeff6c58a9b49867cd544e410739, type: 3}
+  - id: FullBody_Banana_001
+    mesh: {fileID: -239374639861350227, guid: c7d1a82ca58fc204d8f2e6d1ce075f80, type: 3}
+  - id: FullBody_Crayfish_001
+    mesh: {fileID: 5330059951606105856, guid: bc5f49600d9e7d14e9ca8d669b7a3d0d, type: 3}
+  - id: FullBody_Demon_001
+    mesh: {fileID: -7054275368936246528, guid: 4607d81ee5983c442bb93f28d596b672, type: 3}
+  - id: FullBody_Eggplant_001
+    mesh: {fileID: 3973652174096988403, guid: 026fab53e8cc6cb4db7d7bed45473764, type: 3}
+  - id: FullBody_Flower_001
+    mesh: {fileID: 2605094509004030645, guid: fa08ed1677dd3fb40aad1ac2dfd1d725, type: 3}
+  - id: FullBody_Ghost_001
+    mesh: {fileID: 5456861901390739535, guid: ba27834974989244db1686f2cc1633a6, type: 3}
+  - id: FullBody_Gift_001
+    mesh: {fileID: 3067900799683071081, guid: c491c082530873749bb038653d10e416, type: 3}
+  - id: FullBody_Hot_dog_001
+    mesh: {fileID: -978811387830038273, guid: 26930e5d252f7774facac29abb45070a, type: 3}
+  - id: FullBody_Lego_001
+    mesh: {fileID: -675783141302900567, guid: 5f9c29288e97b6941b76f325b77f04ea, type: 3}
+  - id: FullBody_Mushroom_001
+    mesh: {fileID: -6173623261303469045, guid: e04bf5dff63895947a4aac4c35a12d5f, type: 3}
+  - id: FullBody_Nightstand_001
+    mesh: {fileID: 7010411618574705843, guid: f7ec0d2be3c906648953b5b6bd8ad895, type: 3}
+  - id: FullBody_Ostrich_001
+    mesh: {fileID: -3315353857279141987, guid: 0b0efe8815604dc42b767edaac09da6c, type: 3}
+  - id: FullBody_Palm_001
+    mesh: {fileID: 2634547724444992536, guid: c9805c68f033814499dd228695b89fc8, type: 3}
+  - id: FullBody_Red_Guy_001
+    mesh: {fileID: 6934920766488182057, guid: 8a8d62046720c224c8bec2e7e5fc0fb2, type: 3}
+  - id: FullBody_Sausage_001
+    mesh: {fileID: -1485198586842709339, guid: 6661d1fbe43a46b4e92b8866f433ce8e, type: 3}
+  - id: FullBody_Shark_001
+    mesh: {fileID: -7253272608995115017, guid: fceec23c4db858a42948acc12f97fce7, type: 3}
+  - id: FullBody_Snake_001
+    mesh: {fileID: -7968904961647882779, guid: 97d5cb1416db7524589f0935197ed7e8, type: 3}
+  - id: FullBody_Snowman_001
+    mesh: {fileID: 8802524833323686761, guid: 0b10289d71b79f54a838918ac7390b12, type: 3}
+  - id: FullBody_Sushi_001
+    mesh: {fileID: -6603193180314237869, guid: 7af7e309ece14cf429a969160eb9ffe2, type: 3}
+  - id: FullBody_Tooth_001
+    mesh: {fileID: 5701893295964226804, guid: 1f1088f23c0ee72468ba3f2fbd0e3ca5, type: 3}
+  - id: FullBody_Trash_can_001
+    mesh: {fileID: -5468985007477371357, guid: 103d161fdffa97f47a89f3f0b1b0d29b, type: 3}
+  - id: FullBody_UFO_001
+    mesh: {fileID: 8057401502736550932, guid: 49d51d515803e664990290c4d5da633b, type: 3}

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3a7ce26d3caf1d4e83f8af2b3c8eb8f, type: 3}
+  m_Name: Backpack_Options
+  m_EditorClassIdentifier: 
+  partType: 3
+  options:
+  - id: Empty
+    mesh: {fileID: 0}
+  - id: Backpack_001
+    mesh: {fileID: 753635174665640484, guid: d42fb510d7aa19940844c76c9844117b, type: 3}
+  - id: Backpack_002
+    mesh: {fileID: 3086633405382274078, guid: 4c413643a77120f449d3f02cc811ed76, type: 3}
+  - id: Backpack_003
+    mesh: {fileID: 8106217109631206214, guid: 23458d6b1221bc440b603dde1c451f72, type: 3}
+  - id: Backpack_004
+    mesh: {fileID: -5176989786480986735, guid: c02464824c16e48488379cf143348500, type: 3}
+  - id: Backpack_005
+    mesh: {fileID: -7374474530967380086, guid: 40f5f8a68960a754a871e404031eac4a, type: 3}
+  - id: Backpack_006
+    mesh: {fileID: -1480746624030706501, guid: 41201779d98b2ab4c9da18ebe51b7429, type: 3}
+  - id: Backpack_007
+    mesh: {fileID: -1057229108324907293, guid: 423a1854c1f699c4f8e397d6160b15b7, type: 3}
+  - id: Backpack_008
+    mesh: {fileID: -536090310218270943, guid: a7fc3cd33274c3746aefbfc48f14fd6d, type: 3}
+  - id: Backpack_009
+    mesh: {fileID: -1722232313040595947, guid: 1e3922f5a7efb3342832946aeac52e9e, type: 3}
+  - id: Backpack_010
+    mesh: {fileID: 6373263736424013619, guid: 6f961d2cbe9c8f74680465ae0eb32792, type: 3}
+  - id: Backpack_011
+    mesh: {fileID: -6190667478237419051, guid: a697fd115c0dbe044981dfc3d25d0044, type: 3}
+  - id: Backpack_012
+    mesh: {fileID: 4630058919220745221, guid: 558cf8c51a4ea734d8a885f687d33875, type: 3}
+  - id: Backpack_013
+    mesh: {fileID: -6748053193144568004, guid: c63e3734412a9234188728816daefb80, type: 3}
+  - id: Backpack_014
+    mesh: {fileID: -8540307435571542794, guid: acfa3daabf9909b4686186d9fcf35aa5, type: 3}
+  - id: Backpack_015
+    mesh: {fileID: 3450508130937051395, guid: 520692dbdf1aab44bbb521c38175bfd2, type: 3}
+  - id: Backpack_016
+    mesh: {fileID: 7323444771258592881, guid: cb3a30e70e9ff3242ab2023b77a641a5, type: 3}
+  - id: Backpack_017
+    mesh: {fileID: -2356558963806226007, guid: 4b6f0d90114cc5744b4d1a06a84af7b2, type: 3}
+  - id: Backpack_018
+    mesh: {fileID: 5119740424930268419, guid: da90a90bafe199445826a0a77b98b20e, type: 3}
+  - id: Backpack_019
+    mesh: {fileID: -416145196540642894, guid: 2a1bab07a2ddf1941aea8d7278dea32a, type: 3}
+  - id: Backpack_020
+    mesh: {fileID: -4324796915410347424, guid: a28a154d7926eb941ae08300f15ae68e, type: 3}
+  - id: Backpack_021
+    mesh: {fileID: 3642023842513363687, guid: 7e566c3275c683d4c9b47f7dd9d2fa4e, type: 3}
+  - id: Backpack_022
+    mesh: {fileID: 8771099816898706928, guid: c1785b0d5e94e034b8142fd586b61cc0, type: 3}
+  - id: Backpack_023
+    mesh: {fileID: 1487791664223835289, guid: 6c640d98d524d504e941ca98b7b30ef8, type: 3}
+  - id: Backpack_024
+    mesh: {fileID: 5045657295331110002, guid: 3f7f25022f476fb4d93275225e1ba8c6, type: 3}
+  - id: Backpack_025
+    mesh: {fileID: 841631867755389629, guid: 48473dfcba1d6154992b602d6481163c, type: 3}

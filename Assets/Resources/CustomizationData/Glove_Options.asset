@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3a7ce26d3caf1d4e83f8af2b3c8eb8f, type: 3}
+  m_Name: Glove_Options
+  m_EditorClassIdentifier: 
+  partType: 7
+  options:
+  - id: Empty
+    mesh: {fileID: 0}
+  - id: Glove_001
+    mesh: {fileID: -25077955822175325, guid: 66ba5380a49cffd42ad00f74df59bd7c, type: 3}
+  - id: Glove_002
+    mesh: {fileID: 7111710020336575032, guid: 0e48bcb40ad1e294d866e6ede3cdfb50, type: 3}
+  - id: Glove_003
+    mesh: {fileID: -1953884988188453213, guid: 3c94ca1895574984488e0491a5b828ba, type: 3}
+  - id: Glove_004
+    mesh: {fileID: -7649434548065439790, guid: bab78f679b8934c4eb9e75af2d3e9ba1, type: 3}
+  - id: Glove_005
+    mesh: {fileID: -801423317283261692, guid: 67d745d81be77ee449c96544f16c9441, type: 3}
+  - id: Glove_006
+    mesh: {fileID: 2448322761782210726, guid: 1820a2a41a1401e4a974dd8aeaa4dec2, type: 3}
+  - id: Glove_007
+    mesh: {fileID: 6223182056434340418, guid: 7e344cb76f6c44748907d155f14628e7, type: 3}
+  - id: Glove_008
+    mesh: {fileID: -4641865978741311026, guid: b173757fb744a9f43b9afdd28563ff54, type: 3}
+  - id: Glove_009
+    mesh: {fileID: -7860748594122571245, guid: 8e1aa4fa9de4b6c479595ecb57339a70, type: 3}
+  - id: Glove_010
+    mesh: {fileID: -2072555940877183106, guid: ec6f7c2efb07e7a43a686fedd06d2ba2, type: 3}
+  - id: Glove_011
+    mesh: {fileID: 5050379064738517319, guid: 0cb32196483232b49bd3be1dd71d5948, type: 3}
+  - id: Glove_012
+    mesh: {fileID: 8296957928530973239, guid: a54cb504462604b48a24ab0e5a5db305, type: 3}
+  - id: Glove_013
+    mesh: {fileID: -5346916090989735957, guid: 1cb805f377ab14548bf9db6eca4df957, type: 3}
+  - id: Glove_014
+    mesh: {fileID: -1830857501562904919, guid: 4ab2e03fc73afe94f8ccad606854016a, type: 3}
+  - id: Glove_015
+    mesh: {fileID: 6928999925907507706, guid: b81a4d3fe0c6d1d4fa435cdd7ca3dd2f, type: 3}
+  - id: Glove_016
+    mesh: {fileID: -8107620047055984559, guid: e9d0f75f5c2306647a95a7eb2a7bb830, type: 3}
+  - id: Glove_017
+    mesh: {fileID: -7149343203332111209, guid: 62f25fe5661404c46bddd8d61912139d, type: 3}
+  - id: Glove_018
+    mesh: {fileID: -8804310540511056951, guid: 546abb873ce6f2d478f095a69b5dc6da, type: 3}
+  - id: Glove_019
+    mesh: {fileID: -6929837006222990288, guid: ec78323ef55e08c4587313a2ce0d6865, type: 3}
+  - id: Glove_020
+    mesh: {fileID: 378484850503844983, guid: 09e6b4bcdc885ec408ab1281e936bbf2, type: 3}

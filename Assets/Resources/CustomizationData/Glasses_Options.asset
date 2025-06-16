@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3a7ce26d3caf1d4e83f8af2b3c8eb8f, type: 3}
+  m_Name: Glasses_Options
+  m_EditorClassIdentifier: 
+  partType: 2
+  options:
+  - id: Empty
+    mesh: {fileID: 0}
+  - id: Glasses_001
+    mesh: {fileID: 2753778615851264570, guid: 05b3302686c09184ab2d4fda68588fef, type: 3}
+  - id: Glasses_002
+    mesh: {fileID: -5811831291728541591, guid: 9afc5be2099ee8e4cb9c441a15d25582, type: 3}
+  - id: Glasses_003
+    mesh: {fileID: -7403216279830766821, guid: 5e5bb43aad5cda04783dc6b06605078d, type: 3}
+  - id: Glasses_004
+    mesh: {fileID: 3231055992845446417, guid: 4cde0f0637eeb1a47b5f7f483003ef3b, type: 3}
+  - id: Glasses_005
+    mesh: {fileID: 4296936539824940237, guid: 97550cdd3de6eb842aeebeaaf052d139, type: 3}
+  - id: Glasses_006
+    mesh: {fileID: 4124652187440467762, guid: 6f0d4074c6f91e54f9d47a2c663273e9, type: 3}
+  - id: Glasses_007
+    mesh: {fileID: -3705247355795028377, guid: 3caf5f87881a855428146460a6ec58cb, type: 3}
+  - id: Glasses_008
+    mesh: {fileID: -3833847557183297335, guid: 23f7256b7561d894a8e86e37c6e30234, type: 3}
+  - id: Glasses_009
+    mesh: {fileID: -7740229132704780827, guid: 410a44490e8876448a590713ed7e6aad, type: 3}
+  - id: Glasses_010
+    mesh: {fileID: -695924771270019478, guid: ea688a09661143746bcc6c326dc7643c, type: 3}
+  - id: Glasses_011
+    mesh: {fileID: -2305202890556828874, guid: b876066bba3909c4fbce3cd06cd2ed80, type: 3}
+  - id: Glasses_012
+    mesh: {fileID: 5004707161495415007, guid: 1b9184f5c025e874dab231b8e91b5c52, type: 3}
+  - id: Glasses_013
+    mesh: {fileID: -1719430282531305362, guid: 8b822e873f5d46442835e5543f1b1213, type: 3}
+  - id: Glasses_014
+    mesh: {fileID: 5247064079007680798, guid: 63b1b8040457be1429975d456691a6c8, type: 3}
+  - id: Glasses_015
+    mesh: {fileID: -6668309469361532154, guid: 8a3020f71ea1a694d8b394dbdd7f5304, type: 3}
+  - id: Glasses_016
+    mesh: {fileID: 1875201103169349466, guid: 95dd8c5b9c99d9e46872a146392a8143, type: 3}
+  - id: Glasses_017
+    mesh: {fileID: -7640790321513199870, guid: 1e4204543c05ea243a68a55c96afe582, type: 3}
+  - id: Glasses_018
+    mesh: {fileID: 8076521871772501667, guid: 3dac17812b54e894cb942a5883d49f0c, type: 3}
+  - id: Glasses_019
+    mesh: {fileID: 1238291521803039194, guid: 5bffc48d94d381944a563bbb5d53a311, type: 3}
+  - id: Glasses_020
+    mesh: {fileID: 444709880923097759, guid: 72faace0a50bd55408e36ae1ab0c8828, type: 3}
+  - id: Glasses_021
+    mesh: {fileID: 7100496115143087358, guid: 0fac6f36c6c4da04e8148559badfabf8, type: 3}
+  - id: Glasses_022
+    mesh: {fileID: -3656023926038208289, guid: 89320bfc6d9b3394db32dbf9cef5a02f, type: 3}
+  - id: Glasses_023
+    mesh: {fileID: 4158432322307017262, guid: eecd0ec674e8e3c428c6d89438a87a6e, type: 3}
+  - id: Glasses_024
+    mesh: {fileID: 7128510490689783288, guid: 81331d8d780f8f44cb365bb72d459298, type: 3}
+  - id: Glasses_025
+    mesh: {fileID: -7462721821905844091, guid: 3daca2503e4a3f64e892758ad2509ba6, type: 3}
