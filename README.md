@@ -8,7 +8,7 @@
 2. [Funny Characters - Animated Low Poly 3D Models](https://assetstore.unity.com/packages/3d/characters/humanoids/funny-characters-animated-low-poly-3d-models-242892)
 3. [GUI Pro - Casual Game](https://assetstore.unity.com/packages/2d/gui/gui-pro-casual-game-176695)
 
-Please make sure to **download and import all assets** before running the project. These assets are required for proper scene rendering and interaction.
+Please make sure to **download and import all assets** before running the project. These assets are required for proper scene rendering and interaction. <br>
 
 
 ## **프로젝트 개요**
