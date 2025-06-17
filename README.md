@@ -8,10 +8,10 @@
 2. [Funny Characters - Animated Low Poly 3D Models](https://assetstore.unity.com/packages/3d/characters/humanoids/funny-characters-animated-low-poly-3d-models-242892)
 3. [GUI Pro - Casual Game](https://assetstore.unity.com/packages/2d/gui/gui-pro-casual-game-176695)
 
-Please make sure to **download and import all assets** before running the project. These assets are required for proper scene rendering and interaction. <br>
+Please make sure to **download and import all assets** before running the project. These assets are required for proper scene rendering and interaction.
 
 
-## **프로젝트 개요**
+## <br>**프로젝트 개요**
 Aquaverse는 여름 물놀이 테마의 멀티플레이 미니게임 광장입니다. 
 플레이어는 본인의 캐릭터를 꾸미고 게임에 참가해 새로운 친구를 사귀어서 2인 협동 미니게임을 하며 즐기는 게임입니다.
 
