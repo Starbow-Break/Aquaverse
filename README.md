@@ -1,4 +1,15 @@
 # Aquaverse
+## Project Setup
+
+- Unity Version: **6000.1.2f1**
+- Required Assets (from Unity Asset Store):
+
+1. [Platformer 2 Obstacles - Low Poly 3D Models Pack](https://assetstore.unity.com/packages/3d/props/exterior/platformer-2-obstacles-low-poly-3d-models-pack-271342)
+2. [Funny Characters - Animated Low Poly 3D Models](https://assetstore.unity.com/packages/3d/characters/humanoids/funny-characters-animated-low-poly-3d-models-242892)
+3. [GUI Pro - Casual Game](https://assetstore.unity.com/packages/2d/gui/gui-pro-casual-game-176695)
+
+Please make sure to **download and import all assets** before running the project. These assets are required for proper scene rendering and interaction.
+
 
 ## **프로젝트 개요**
 Aquaverse는 여름 물놀이 테마의 멀티플레이 미니게임 광장입니다. 
