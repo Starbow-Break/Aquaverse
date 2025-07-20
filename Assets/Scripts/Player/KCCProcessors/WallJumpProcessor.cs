@@ -2,7 +2,7 @@ using System;
 using Fusion.Addons.KCC;
 using UnityEngine;
 
-public class WallProcessor : KCCProcessor, ISetDynamicVelocity
+public class WallJumpProcessor : KCCProcessor, ISetDynamicVelocity
 {
     [SerializeField] private Vector3 _baseJumpImpulse = 10f * Vector3.up;
     [SerializeField] private float _wallSlideMultiplier = 0.5f;
@@ -53,7 +53,7 @@ public class WallProcessor : KCCProcessor, ISetDynamicVelocity
 
     private void SuppressOtherSameTypeProcessors(KCC kcc)
     {
-        kcc.SuppressProcessors<WallProcessor>();
+        kcc.SuppressProcessors<WallJumpProcessor>();
         
     }
 

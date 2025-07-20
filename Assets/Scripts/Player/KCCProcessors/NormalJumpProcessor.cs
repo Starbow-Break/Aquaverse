@@ -50,6 +50,6 @@ public class NormalJumpProcessor : KCCProcessor, ISetDynamicVelocity
     private void SuppressOtherJumpProcessors(KCC kcc)
     {
         kcc.SuppressProcessors<AirJumpProcessor>();
-        kcc.SuppressProcessors<WallProcessor>();
+        kcc.SuppressProcessors<WallJumpProcessor>();
     }
 }

@@ -37,7 +37,7 @@ public class AirJumpProcessor : KCCProcessor, ISetDynamicVelocity
     
     private void SuppressOtherSameTypeProcessors(KCC kcc)
     {
-        kcc.SuppressProcessors<WallProcessor>();
+        kcc.SuppressProcessors<WallJumpProcessor>();
     }
 
     private void SuppressOtherJumpProcessors(KCC kcc)

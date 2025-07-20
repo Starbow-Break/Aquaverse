@@ -32,7 +32,7 @@ public class WallCheckProcessor : KCCProcessor, ISetDynamicVelocity
             kcc.transform.forward,
             out RaycastHit hit,
             kcc.transform.rotation, 
-            kcc.Collider.radius + 0.5f,
+            kcc.Collider.radius + _castDistance,
             _wallLayer
         );
 
